@@ -10,7 +10,7 @@ I'm a full-stack software developer based in the SF Bay Area. I am a lifelong le
 - 💻  I’m currently working on a focus application with Spotify integration
 </p>
 <p align='center'>
-- 🌱  I’m currently learning about the intricacies of authentication and Next.js
+- 🌱  I’m currently learning about the intricacies of OAuth2 and Next.js
 </p>
 
 <h3 align='center'>
