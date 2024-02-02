@@ -3,14 +3,7 @@
 </h1>
 
 <p align='center'>
-I'm a full-stack software developer based in the SF Bay Area. I am a lifelong learner who is passionate about building great products. Throughout my career, I’ve collaborated with large cross-functional teams to bring product strategies to life. Along the way, I fell in love with coding and with the challenge of building scalable applications with design and function in mind. 
-</p>
-
-<p align='center'>
-- 💻  I’m currently working on a focus application with Spotify integration
-</p>
-<p align='center'>
-- 🌱  I’m currently learning about the intricacies of OAuth2 and Next.js
+I'm a full-stack software engineer working at Cash App based in the SF Bay Area. I am a lifelong learner who is passionate about building great products. Throughout my career, I’ve collaborated with large cross-functional teams to bring product strategies to life. Along the way, I fell in love with coding and with the challenge of building scalable applications with design and function in mind. 
 </p>
 
 <h3 align='center'>
