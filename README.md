@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-I'm a full-stack software engineer working at Cash App based in the SF Bay Area. I am a lifelong learner who is passionate about building great products. Throughout my career, I’ve collaborated with large cross-functional teams to bring product strategies to life. Along the way, I fell in love with coding and with the challenge of building scalable applications with design and function in mind. 
+I'm a full-stack software engineer based in the SF Bay Area. I am a lifelong learner who is passionate about building great products. Throughout my career, I’ve collaborated with large cross-functional teams to bring product strategies to life. Along the way, I fell in love with coding and with the challenge of building scalable applications with design and function in mind. 
 </p>
 
 <h3 align='center'>
