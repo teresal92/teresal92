@@ -1,8 +1,7 @@
 Hi, I'm Teresa 👋
 
 Expert ramblist, fluent in React/TypeScript and mild 
-caffeine dependency. I like turning messy, unstructured 
-problems into interfaces that feel simple & intuitive.
+caffeine dependency. I like understanding how things work and turning messy, unstructured problems into interfaces that feel simple & intuitive.
 
 Previously:
 - Founding Engineer at Greenthumb AI
