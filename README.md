@@ -1,9 +1,13 @@
 Hi, I'm Teresa 👋
 
-Full-stack engineer building AI-powered product experiences with TypeScript, React, Node.js, and LLM workflows.
+Expert ramblist, fluent in React/TypeScript and mild 
+caffeine dependency. I like turning messy, unstructured 
+problems into interfaces that feel simple & intuitive.
 
 Previously:
 - Founding Engineer at Greenthumb AI
 - Full Stack Engineer at Block (Square)
 
-I enjoy building systems that turn complex workflows and unstructured data into intuitive user experiences.
+Outside of code: trail running (especially up mountains), 
+drawing, existential questions and exploring the world 
+through good food (:
